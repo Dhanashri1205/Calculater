@@ -1,2 +1,2 @@
-# Calculater
-Design calculater using HTML,CSS and JS
+# Calculator
+Design Calculator using HTML,CSS and JS
